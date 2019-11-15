@@ -4,6 +4,9 @@
 
 ```bash
 curl -X POST -d 'username=peter&message=你妈叫你吃饭' 'localhost:8080'
+
+curl -X POST -d 'username=peter&message=こんにちは, 世界!' 'localhost:8080'
+
 ```
 
 
